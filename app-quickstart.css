@@ -8,19 +8,9 @@ The media queries are located at the bottom of this file.
 
 */
 
-html {
-  	height: 100%;
-  	font-size: 16px;
-}
 
-body {
-	min-height: 100%;
-	font-size: 100%;
-	font-size: 16px !important;
-	background: url("../image/bg.jpg") repeat-y !important;
-	background-size: 100% 100%;
-	overflow-x: hidden;
-} /* increased for non mobile devices w/ a media query */
+
+
 
 #appTemplates {display:none;} /* container for all templates. should be hidden */
 

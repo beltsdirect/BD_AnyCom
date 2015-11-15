@@ -5,8 +5,8 @@ a:focus {
 	outline: none;
 }
 
-#containervenas {
-	max-width: 1320px;
+#container {
+	max-width: 1900px;
 	margin: 0 auto;
 	background: white;
 }
@@ -16,6 +16,20 @@ a:focus {
 	margin: 0 auto;
 	background: white;
 	padding: 0;
+}
+
+#appView {
+	max-width: 1320px;
+	margin: 0 auto;
+	background: white;
+}	
+
+#globalMessaging{
+	max-width: 1117px;
+}
+
+.appMessaging {
+	max-width: 1117px;
 }
 
 .container-main {
@@ -387,7 +401,7 @@ span.currency-currency {
 .nav-bottom-line .open>a, 
 .nav-bottom-line .open>a:hover, 
 .nav-bottom-line .open>a:focus {
-	background: #F39C11 !important;
+	background: #c20430 !important;
 	color: #fff !important;
 }
 
@@ -2364,11 +2378,11 @@ aside.single-post {
 }
 
 .smaill-img-zoom:hover {
-	border:1px solid #F39C11;
+	border:1px solid #c20430;
 } 
 
 .small-img-popup {
-	background-color: #F39C11;
+	background-color: #c20430;
 	padding: 3px 3px 3px 3px;
 	position: fixed;
 	top: 50%;
@@ -3399,11 +3413,11 @@ s {
 }
 
 .trash-table:hover{
- 	color: #F39C11 !important;
+ 	color: #c20430 !important;
 }
 
 .trash-table:focus{
- 	color: #F39C11 !important;
+ 	color: #c20430 !important;
 }
 
 .table-bordered {
@@ -5152,7 +5166,7 @@ footer ul.cart-footer {
 
 @media screen and (max-width: 480px) and (min-width: 297px)  {
 	.small-img-popup {
-		  background-color: #F39C11;
+		  background-color: #c20430;
 		  padding: 3px 3px 3px 3px;
 		  position: fixed;
 		  top: 50%;
@@ -5170,7 +5184,7 @@ footer ul.cart-footer {
 
 @media screen and (max-width: 400px) and (min-width: 297px)  {
  	.small-img-popup {
-	  background-color: #F39C11;
+	  background-color: #c20430;
 	  padding: 3px 3px 3px 3px;
 	  position: fixed;
 	  top: 50%;
@@ -5188,7 +5202,7 @@ footer ul.cart-footer {
 
 @media screen and (max-width: 338px) and (min-width: 297px)  {
  	.small-img-popup {
-	  background-color: #F39C11;
+	  background-color: #c20430;
 	  padding: 3px 3px 3px 3px;
 	  position: fixed;
 	  top: 50%;
